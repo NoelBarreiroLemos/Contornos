@@ -7,7 +7,7 @@ package testrefactorizacion;
 
 /**
  *
- * @author daw1718
+ * @author Noel Barreiro Lemos
  */
 public class TestRefactorizacion {
 
@@ -16,6 +16,7 @@ public class TestRefactorizacion {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        cliente c = new cliente("IES de Rodeira");
     }
     
 }
